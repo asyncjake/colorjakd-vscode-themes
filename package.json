@@ -23,28 +23,28 @@
         "path": "./light/violet-ice-1.1.json"
       },
       {
-        "label": "jakd / andromeda bordered",
-        "uiTheme": "vsdark",
+        "label": "jakd / andromeda",
+        "uiTheme": "vs-dark",
         "path": "./dark/andromeda-bordered-1.1.json"
       },
       {
-        "label": "jakd / hacker blue",
-        "uiTheme": "vsdark",
+        "label": "jakd / hacker",
+        "uiTheme": "vs-dark",
         "path": "./dark/hacker-blue-1.1.json"
       },
       {
         "label": "jakd / batman",
-        "uiTheme": "vsdark",
+        "uiTheme": "vs-dark",
         "path": "./dark/vaporizer-batman-dark-1.1.json"
       },
       {
         "label": "jakd / cyber",
-        "uiTheme": "vsdark",
+        "uiTheme": "vs-dark",
         "path": "./dark/vaporizer-cyber-neon-3.1.json"
       },
       {
         "label": "jakd / painting2",
-        "uiTheme": "vsdark",
+        "uiTheme": "vs-dark",
         "path": "./dark/vaporizer-dark-painting-2.1.json"
       }
     ]
