@@ -9,6 +9,7 @@
             "name": "Extension",
             "type": "extensionHost",
             "request": "launch",
+            "outputCapture": "std",
             "args": [
                 "--extensionDevelopmentPath=${workspaceFolder}"
             ]
