@@ -21,6 +21,31 @@
         "label": "jakd / violet ice",
         "uiTheme": "vs",
         "path": "./light/violet-ice-1.1.json"
+      },
+      {
+        "label": "jakd / andromeda bordered",
+        "uiTheme": "vsdark",
+        "path": "./dark/andromeda-bordered-1.1.json"
+      },
+      {
+        "label": "jakd / hacker blue",
+        "uiTheme": "vsdark",
+        "path": "./dark/hacker-blue-1.1.json"
+      },
+      {
+        "label": "jakd / batman",
+        "uiTheme": "vsdark",
+        "path": "./dark/vaporizer-batman-dark-1.1.json"
+      },
+      {
+        "label": "jakd / cyber",
+        "uiTheme": "vsdark",
+        "path": "./dark/vaporizer-cyber-neon-3.1.json"
+      },
+      {
+        "label": "jakd / painting2",
+        "uiTheme": "vsdark",
+        "path": "./dark/vaporizer-dark-painting-2.1.json"
       }
     ]
   }
