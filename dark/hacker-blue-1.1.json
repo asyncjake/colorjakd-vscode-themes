@@ -1,6 +1,5 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-  "name": "jakd / hacker blue",
 	"type": "dark",
 	"colors": {
 		"activityBar.activeBackground": "#000000",

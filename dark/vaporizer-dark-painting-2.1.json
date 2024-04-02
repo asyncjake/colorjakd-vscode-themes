@@ -1,6 +1,5 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-  "name": "jakd / painting",
 	"type": "dark",
 	"colors": {
 		"activityBar.background": "#000000",
