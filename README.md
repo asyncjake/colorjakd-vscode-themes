@@ -16,17 +16,61 @@ My very first theme from scratch, this is my daytime default. Fully organic and 
 
 I am just so sick of light themes having washed out colors or a dire lack of vibe, so I fixed it. Dope. I'd like to make more but this might be my last, I like it a lot
 
+ScreenshotPlaceholder
+
+ScreenshotPlaceholder
+
+ScreenshotPlaceholder
+
 ## Dark Themes
 
 ### `jakd / andromeda` (forked from `EliverLara.andromeda`)
 
+ScreenshotPlaceholder
+
+ScreenshotPlaceholder
+
+ScreenshotPlaceholder
+
+### `jakd / astro` (forked from `larabeatriz32.theme-astronaut`)
+
+ScreenshotPlaceholder
+
+ScreenshotPlaceholder
+
+ScreenshotPlaceholder
+
 ### `jakd / hacker` (forked from `chausen.hacker-blue`)
+
+ScreenshotPlaceholder
+
+ScreenshotPlaceholder
+
+ScreenshotPlaceholder
 
 ### `jakd / batman` (forked from `Vaporizer.vaporizer-dark`)
 
+ScreenshotPlaceholder
+
+ScreenshotPlaceholder
+
+ScreenshotPlaceholder
+
 ### `jakd / cyber` (forked from `Vaporizer.vaporizer-dark`)
 
+ScreenshotPlaceholder
+
+ScreenshotPlaceholder
+
+ScreenshotPlaceholder
+
 ### `jakd / painting2` (forked from `Vaporizer.vaporizer-dark`)
+
+ScreenshotPlaceholder
+
+ScreenshotPlaceholder
+
+ScreenshotPlaceholder
 
 ## License
 
@@ -41,4 +85,3 @@ All custom themes are released under the MIT license, pay it forward :)
 `hacker` may be removed at any point, license information is unknown. The original theme was created by [lennythetechie on themes.vscode.one](https://themes.vscode.one/theme/lennythetechie/o8CSDFWb), but lenny doesn't seem to be on github. Lenny's theme was eventually found by a github user named chausen, but the theme wasn't published as an installable extension anywhere - so chausen pulled it into [their own github repo](https://github.com/chausen/hacker-blue) and published it. No license information is available in either location
 - At the time of acquisition (and also writing this), themes.vscode.one's host (currently flamelab.io) has terms of service stating that users who upload/create content on their platform are responsible for enforcing their own copyright
 - TLDR Lenny hit me up I want to give you credit your theme is dope
-

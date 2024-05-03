@@ -2,7 +2,7 @@
   "name": "colorjakd",
   "displayName": "colorjakd / jakethedev's theme pack",
   "description": "Several themes that I've made or forked, packaged conveniently for myself and anyone else that digs some color in their daily grind",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "repository": "https://github.com/jakethedev/colorjakd-vscode-themes",
   "scripts": {
     "start": "echo Edit a theme, use 'npm run build' to generate the vsix file",
@@ -29,6 +29,11 @@
         "label": "jakd / andromeda",
         "uiTheme": "vs-dark",
         "path": "./dark/andromeda-bordered-1.1.json"
+      },
+      {
+        "label": "jakd / astro",
+        "uiTheme": "vs-dark",
+        "path": "./dark/larabeatriz32-astronaut.json"
       },
       {
         "label": "jakd / hacker",
