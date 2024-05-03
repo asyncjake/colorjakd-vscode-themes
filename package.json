@@ -2,7 +2,7 @@
   "name": "colorjakd",
   "displayName": "colorjakd / jakethedev's theme pack",
   "description": "Several themes that I've made or forked, packaged conveniently for myself and anyone else that digs some color in their daily grind",
-  "version": "1.1.0",
+  "version": "0.2",
   "repository": "https://github.com/jakethedev/colorjakd-vscode-themes",
   "scripts": {
     "start": "echo Edit a theme, use 'npm run build' to generate the vsix file",
