@@ -193,9 +193,9 @@
 		"pickerGroup.foreground": "#3bffc8",
 		"progressBar.background": "#ffef00",
 		"scrollbar.shadow": "#e216ff00",
-		"scrollbarSlider.activeBackground": "#559fff",
-		"scrollbarSlider.background": "#e0c163",
-		"scrollbarSlider.hoverBackground": "#fd5df3",
+		"scrollbarSlider.activeBackground": "#559fffc0",
+		"scrollbarSlider.background": "#fd5df3a0",
+		"scrollbarSlider.hoverBackground": "#fd5df3c0",
 		"selection.background": "#000000",
 		"settings.focusedRowBackground": "#ffffff07",
 		"settings.headerForeground": "#ff00bf",
@@ -255,6 +255,9 @@
 		"tree.indentGuidesStroke": "#ff8300",
 		"walkThrough.embeddedEditorBackground": "#00000050",
 		"widget.shadow": "#e412b95c",
+		/*
+		comment comment comment
+		*/
 		//"actionBar.toggledBackground": "#007fd466",
 		//"activityBar.activeBorder": "#00b7ff",
 		//"activityBar.dropBorder": "#00b7ff",
@@ -829,7 +832,7 @@
 		{
 			"scope": "comment markup.link",
 			"settings": {
-				"foreground": "#0E245A"
+				"foreground": "#7955c7"
 			}
 		},
 		{
@@ -2281,7 +2284,7 @@
 		{
 			"scope": "comment, punctuation.definition.comment",
 			"settings": {
-				"foreground": "#0E245A",
+				"foreground": "#7955c7",
 				"fontStyle": "italic"
 			}
 		},

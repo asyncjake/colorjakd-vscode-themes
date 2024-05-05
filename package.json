@@ -1,15 +1,18 @@
 {
   "name": "colorjakd",
   "displayName": "colorjakd / jakethedev's theme pack",
-  "description": "Several themes that I've made or forked, packaged conveniently for myself and anyone else that digs some color in their daily grind",
-  "version": "0.3.0",
+  "description": "One part my awesome custom light theme, several parts forked-and-tweaked dark themes under the MIT license",
+  "version": "0.4.0",
   "repository": "https://github.com/jakethedev/colorjakd-vscode-themes",
   "scripts": {
-    "start": "echo Edit a theme, use 'npm run build' to generate the vsix file",
+    "start": "echo Edit a theme, use 'npm run build' to generate the vsix file, or use vscode extension developer tools to live-test changes",
+    "patch": "npm version minor",
+    "v:update": "npm version minor",
+    "v:major": "npm version major",
     "make": "vsce package && mv *.vsix builds/ && echo 'Build complete, check builds folder!'"
   },
-  "dependencies": {
-    "@vscode/vsce": "^2.24.0"
+  "devDependencies": {
+    "@vscode/vsce": "2.26.1"
   },
   "engines": {
     "vscode": "^1.77.0"
@@ -21,19 +24,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "jakd / violet ice",
+        "label": "jakd / violet ice white",
         "uiTheme": "vs",
-        "path": "./light/violet-ice-1.1.json"
+        "path": "./light/violet-ice-white.json"
       },
       {
-        "label": "jakd / violet ice work",
+        "label": "jakd / violet ice cool",
         "uiTheme": "vs",
-        "path": "./light/violet-ice-work.json"
+        "path": "./light/violet-ice-cool.json"
       },
       {
         "label": "jakd / andromeda",
         "uiTheme": "vs-dark",
-        "path": "./dark/andromeda-bordered-1.1.json"
+        "path": "./dark/andromeda-bordered.json"
       },
       {
         "label": "jakd / astro",
@@ -43,22 +46,22 @@
       {
         "label": "jakd / hacker",
         "uiTheme": "vs-dark",
-        "path": "./dark/hacker-blue-1.1.json"
+        "path": "./dark/hacker-blue.json"
       },
       {
         "label": "jakd / batman",
         "uiTheme": "vs-dark",
-        "path": "./dark/vaporizer-batman-dark-1.1.json"
+        "path": "./dark/vaporizer-batman-dark.json"
       },
       {
         "label": "jakd / cyber",
         "uiTheme": "vs-dark",
-        "path": "./dark/vaporizer-cyber-neon-3.1.json"
+        "path": "./dark/vaporizer-cyber-neon.json"
       },
       {
         "label": "jakd / painting2",
         "uiTheme": "vs-dark",
-        "path": "./dark/vaporizer-dark-painting-2.1.json"
+        "path": "./dark/vaporizer-dark-painting2.json"
       }
     ]
   }
