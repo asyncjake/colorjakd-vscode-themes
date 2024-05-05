@@ -1,20 +1,21 @@
-# colorjakd / jakethedev's theme pack
+# colorjakd / jakethedev's theme pack :computer: :rainbow:
 
-### (screenshots coming soon)
+***(screenshots coming soon)***
 
-Custom themes or forks of colorful themes I like but wanted to tweak for some reason. The core motivation for this is a single pack of themes I actually like looking at for 123908 hours a day with love for the light themers out there. All sources cited because humanity works better together
+Aaaaand in this corner of the internet, we have my custom light theme bundled up with "forks" of awesome dark themes I like but wanted to tweak for some reason. The core motivation for this is a single pack of themes I can install once to simplify my extension list, and a compulsion to add a bit more style to some already awesome themes. All sources cited below because humanity works better together
 
-When I say 'forks', I mean I love the theme but I don't want to have to sort through tons of themes I don't like because I'm way too picky and way too lazy. Naturally then, I followed 'the process' (gist or blog coming soon) to take an existing theme and export it from VSCode, set up a VSCode extension project to test it live, copy the exported theme into the new project, adjust to taste, then save/commit as a new theme in this repo. So it's not a fork in the traditional sense, but that's the intent
+When I say "forks", I mean I found a theme I loved and changed like two lines lol. I followed 'the process' (probably a blog link here in the future) to export a theme from VSCode, set up an extension, import the theme as code and adjust to taste, then republish it.
 
-If anyone I 'forked' a theme from is bothered by this (or if I broke a license on accident), just file a new issue on this repo to have it removed, and I'm happy to oblige for anyone that clearly owns a 'forked' theme
+### Contributing
+I'm picky about the existing themes so I'm unlikely to accept significant color updates, but if you have a theme to add or a really nice QoL change for an existing theme, I'm wide open to it!
 
 ## Light Themes
 
 ### `jakd / violet ice`
 
-My very first theme from scratch, this is my daytime default. Fully organic and fair trade with roundup and pesticides provided by `https://themes.vscode.one` then biohacked for better usability and stuff. Initially inspired by Arturia hardware then infused with sick colors, this theme is primarily white and violet with a slap of teal and a sprinkle of gold for balance
+Honestly, I just got sick of light themes having no vibe and so little contrast that I couldn't see the code, so I made this from scratch. Now it's my daytime default :sunny:
 
-I am just so sick of light themes having washed out colors or a dire lack of vibe, so I fixed it. Dope. I'd like to make more but this might be my last, I like it a lot
+Fully organic fair trade colors injected with concentrated pesticides provided by `https://themes.vscode.one`, then biohacked for better usability and bonzi-buddy resistance. Inspired by Arturia hardware then infused with sick colors, this theme is primarily white and violet with a slap of teal and a dash of gold for balance
 
 ScreenshotPlaceholder
 
@@ -26,62 +27,48 @@ ScreenshotPlaceholder
 
 ### `jakd / andromeda` (forked from `EliverLara.andromeda`)
 
-ScreenshotPlaceholder
+I probably haven't changed anything, I just love this theme
 
-ScreenshotPlaceholder
-
-ScreenshotPlaceholder
+- ScreenshotPlaceholder
 
 ### `jakd / astro` (forked from `larabeatriz32.theme-astronaut`)
 
-ScreenshotPlaceholder
+I probably haven't changed anything here either, this is a gorgeous theme and you should protect it with your life
 
-ScreenshotPlaceholder
+- ScreenshotPlaceholder
 
-ScreenshotPlaceholder
+### `jakd / hacker blue` (forked from `chausen.hacker-blue`)
 
-### `jakd / hacker` (forked from `chausen.hacker-blue`)
+Super clean with mysterious origins (see below). I've only changed the comment color from the original
 
-ScreenshotPlaceholder
-
-ScreenshotPlaceholder
-
-ScreenshotPlaceholder
+- ScreenshotPlaceholder
 
 ### `jakd / batman` (forked from `Vaporizer.vaporizer-dark`)
 
-ScreenshotPlaceholder
+Updated scrollbars
 
-ScreenshotPlaceholder
-
-ScreenshotPlaceholder
+- ScreenshotPlaceholder
 
 ### `jakd / cyber` (forked from `Vaporizer.vaporizer-dark`)
 
-ScreenshotPlaceholder
+Updated scrollbars and comments and possibly a couple other details
 
-ScreenshotPlaceholder
+- ScreenshotPlaceholder
 
-ScreenshotPlaceholder
-
-### `jakd / painting2` (forked from `Vaporizer.vaporizer-dark`)
-
-ScreenshotPlaceholder
-
-ScreenshotPlaceholder
-
-ScreenshotPlaceholder
-
-## License
+## License Details
 
 ### TLDR: This is all MIT except hacker-blue, which is unknown but reposted in good faith that lennythetechie wanted these colors out in the world
 
-All custom themes are released under the MIT license, pay it forward :)
+All my custom `violet ice` themes are shared under the MIT license, pay it forward! :sparkle:
 
-`andromeda` is from `EliverLara.andromeda` on the VSCode marketplace with a public repository - so this is customized and republished with permission provided by the [MIT license](https://github.com/EliverLara/Andromeda/blob/master/LICENSE.md)
+`andromeda` was a successful heist from `EliverLara.andromeda` on the marketplace. There's [a public repository](https://github.com/EliverLara/Andromeda) released under the [MIT license](https://github.com/EliverLara/Andromeda/blob/master/LICENSE.md), thanks Eliver!
 
-`batman`, `cyber`, and `painting2` are all from the `Vaporizer.vaporizer-dark` theme pack on the VSCode marketplace. Per the marketplace license link, these are customized and republished with permission provided by the [MIT License](https://marketplace.visualstudio.com/items/Vaporizer.vaporizer-dark/license)
+`astronaut` is lifted straight out of `larabeatriz32.astronaut`, which is also covered by the [MIT license](https://github.com/EliverLara/Andromeda/blob/master/LICENSE.md). Cheers Lara!
 
-`hacker` may be removed at any point, license information is unknown. The original theme was created by [lennythetechie on themes.vscode.one](https://themes.vscode.one/theme/lennythetechie/o8CSDFWb), but lenny doesn't seem to be on github. Lenny's theme was eventually found by a github user named chausen, but the theme wasn't published as an installable extension anywhere - so chausen pulled it into [their own github repo](https://github.com/chausen/hacker-blue) and published it. No license information is available in either location
+Shoutout to all the Lara's making dope editor themes, yall should form a club or something
+
+`batman` and `cyber` are shamelessly stolen from the `Vaporizer.vaporizer-dark` theme pack on the VSCode marketplace. According to [the marketplace license link](https://marketplace.visualstudio.com/items/Vaporizer.vaporizer-dark/license), MIT License applies for these guys too. 
+
+`hacker blue` is unique, it may be removed at any point, license information is unknown. The original theme was created by [lennythetechie on themes.vscode.one](https://themes.vscode.one/theme/lennythetechie/o8CSDFWb), but lenny doesn't seem to be on github. Lenny's theme was eventually found by a github user named chausen, but the theme wasn't published as an installable extension anywhere - so chausen pulled it into [their own github repo](https://github.com/chausen/hacker-blue) and published it. No license information is available in either location
 - At the time of acquisition (and also writing this), themes.vscode.one's host (currently flamelab.io) has terms of service stating that users who upload/create content on their platform are responsible for enforcing their own copyright
-- TLDR Lenny hit me up I want to give you credit your theme is dope
+- TLDR Lenny hit me up I want to give you credit your theme is dope, post an issue to this repo or something!
