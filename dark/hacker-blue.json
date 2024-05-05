@@ -829,7 +829,7 @@
 		{
 			"scope": "comment markup.link",
 			"settings": {
-				"foreground": "#7DF9FF50"
+				"foreground": "#6969fea0"
 			}
 		},
 		{
@@ -2281,7 +2281,7 @@
 		{
 			"scope": "comment, punctuation.definition.comment",
 			"settings": {
-				"foreground": "#7DF9FF50",
+				"foreground": "#6969fea0",
 				"fontStyle": "italic"
 			}
 		},

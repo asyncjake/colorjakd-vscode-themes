@@ -2,7 +2,7 @@
   "name": "colorjakd",
   "displayName": "colorjakd / jakethedev's theme pack",
   "description": "One part my awesome custom light theme, several parts forked-and-tweaked dark themes under the MIT license",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "repository": "https://github.com/jakethedev/colorjakd-vscode-themes",
   "scripts": {
     "start": "echo Edit a theme, use 'npm run build' to generate the vsix file, or use vscode extension developer tools to live-test changes",
@@ -44,7 +44,7 @@
         "path": "./dark/larabeatriz32-astronaut.json"
       },
       {
-        "label": "jakd / hacker",
+        "label": "jakd / hacker blue",
         "uiTheme": "vs-dark",
         "path": "./dark/hacker-blue.json"
       },
