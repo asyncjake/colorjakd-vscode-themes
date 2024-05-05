@@ -2,11 +2,11 @@
   "name": "colorjakd",
   "displayName": "colorjakd / jakethedev's theme pack",
   "description": "Several themes that I've made or forked, packaged conveniently for myself and anyone else that digs some color in their daily grind",
-  "version": "0.2",
+  "version": "0.3.0",
   "repository": "https://github.com/jakethedev/colorjakd-vscode-themes",
   "scripts": {
     "start": "echo Edit a theme, use 'npm run build' to generate the vsix file",
-    "build": "vsce package && mv *.vsix builds/ && echo 'Build complete, check builds folder!'"
+    "make": "vsce package && mv *.vsix builds/ && echo 'Build complete, check builds folder!'"
   },
   "dependencies": {
     "@vscode/vsce": "^2.24.0"
@@ -24,6 +24,11 @@
         "label": "jakd / violet ice",
         "uiTheme": "vs",
         "path": "./light/violet-ice-1.1.json"
+      },
+      {
+        "label": "jakd / violet ice work",
+        "uiTheme": "vs",
+        "path": "./light/violet-ice-work.json"
       },
       {
         "label": "jakd / andromeda",
