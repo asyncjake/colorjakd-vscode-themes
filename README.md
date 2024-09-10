@@ -17,11 +17,13 @@ Honestly, I just got sick of light themes having no vibe and so little contrast 
 
 Fully organic fair trade colors injected with concentrated pesticides provided by `https://themes.vscode.one`, then biohacked for better usability and bonzi-buddy resistance. Inspired by Arturia hardware then infused with sick colors, this theme is primarily white and violet with a slap of teal and a dash of gold for balance
 
-ScreenshotPlaceholder
+#### violet ice cool (teal accent)
 
-ScreenshotPlaceholder
+- ScreenshotPlaceholder
 
-ScreenshotPlaceholder
+#### violet ice white (ooo so modern and demure)
+
+- ScreenshotPlaceholder
 
 ## Dark Themes
 
