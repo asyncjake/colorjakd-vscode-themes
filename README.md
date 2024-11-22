@@ -80,3 +80,7 @@ Shoutout to all the Lara's making dope editor themes, yall should form a club or
 `hacker blue` is unique, it may be removed at any point, license information is unknown. The original theme was created by [lennythetechie on themes.vscode.one](https://themes.vscode.one/theme/lennythetechie/o8CSDFWb), but lenny doesn't seem to be on github. Lenny's theme was eventually found by a github user named chausen, but the theme wasn't published as an installable extension anywhere - so chausen pulled it into [their own github repo](https://github.com/chausen/hacker-blue) and published it. No license information is available in either location
 - At the time of acquisition (and also writing this), themes.vscode.one's host (currently flamelab.io) has terms of service stating that users who upload/create content on their platform are responsible for enforcing their own copyright
 - TLDR Lenny hit me up I want to give you credit your theme is dope, post an issue to this repo or something!
+
+`Synthwave` is a copy of Rob's excellent Synthwave '84 theme, check it out on [github here](https://github.com/robb0wen/synthwave-vscode) - also MIT license, you get the theme here
+
+

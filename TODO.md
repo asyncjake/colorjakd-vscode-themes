@@ -3,6 +3,8 @@
 - [X] All violets, fix terminal cursor
     awesome teal: #00c2b8
 - [X] Update themes, build and push 0.8.0
+- [X] Get synthwave added to readme correctly
+- [X] Fix the build then repush 0.8
 
 - [ ] ice-cool: html tag should be more contrasty, dark teal or purple like ice-white
 - [ ] `violet-ice-*`: double check debug mode highlights in watch panel
@@ -12,9 +14,10 @@
 - [ ] Blog about it for practice and future reference
 
 #### Additional notes
-- [ ] Astronaut: better comment contrast
-- [ ] Check: comment contrast on the rest of the dark themes
+- [ ] Adjust comment contrast/italics for:
+    astronaut
+    batman
+    cyber
+    hacker
 - [ ] Batman: list highlight/dropdown bg clash with text highlight
-- [ ] temp/synthwave: readme and packaging, repo https://github.com/robb0wen/synthwave-vscode
-    - known MIT yay!
 
