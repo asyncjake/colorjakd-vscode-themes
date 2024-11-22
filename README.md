@@ -57,6 +57,12 @@ Updated scrollbars and comments and possibly a couple other details
 
 - ScreenshotPlaceholder
 
+### `jakd / synthwave` (forked from `RobbOwen.synthwave-vscode`)
+
+No updates so far, just pulled it in for testing
+
+- ScreenshotPlaceholder
+
 ## License Details
 
 ### TLDR: This is all MIT except hacker-blue, which is unknown but reposted in good faith that lennythetechie wanted these colors out in the world
