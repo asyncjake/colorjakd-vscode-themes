@@ -15,13 +15,13 @@ I'm picky about the existing themes so I'm unlikely to accept significant color 
 
 Honestly, I just got sick of light themes having no vibe and so little contrast that I couldn't see the code, so I made this from scratch. Now it's my daytime default :sunny:
 
-Fully organic fair trade colors injected with concentrated pesticides provided by `https://themes.vscode.one`, then biohacked for better usability and bonzi-buddy resistance. Inspired by Arturia hardware then infused with sick colors, this theme is primarily white and violet with a slap of teal and a dash of gold for balance
+Initial structure provided by `https://themes.vscode.one`, then upgraded over time as I 'dogfood' this one every day. Inspired by Arturia hardware and simple bright colors, this theme is primarily white and violet with a dash of teal and gold.
 
 #### violet ice cool (teal accent)
 
 - ScreenshotPlaceholder
 
-#### violet ice white (ooo so modern and demure)
+#### violet ice white (simpler, cleaner)
 
 - ScreenshotPlaceholder
 
@@ -35,7 +35,7 @@ I probably haven't changed anything, I just love this theme
 
 ### `jakd / astro` (forked from `larabeatriz32.theme-astronaut`)
 
-I probably haven't changed anything here either, this is a gorgeous theme and you should protect it with your life
+I probably haven't changed anything here either, this is excellent as-is
 
 - ScreenshotPlaceholder
 
@@ -67,12 +67,10 @@ All my custom `violet ice` themes are shared under the MIT license, pay it forwa
 
 `astronaut` is lifted straight out of `larabeatriz32.astronaut`, which is also covered by the [MIT license](https://github.com/EliverLara/Andromeda/blob/master/LICENSE.md). Cheers Lara!
 
-(Shoutout to all the Lara's making awesome editor themes, yall should form a club or something)
-
-`batman` and `cyber` are shamelessly stolen from the `Vaporizer.vaporizer-dark` theme pack on the VSCode marketplace. According to [the marketplace license link](https://marketplace.visualstudio.com/items/Vaporizer.vaporizer-dark/license), MIT License applies for these guys too. 
+`batman` and `cyber` are stolen from the `Vaporizer.vaporizer-dark` theme pack on the VSCode marketplace. According to [the marketplace license link](https://marketplace.visualstudio.com/items/Vaporizer.vaporizer-dark/license), MIT License applies for these guys too. 
 
 `hacker blue` is unique, it may be removed at any point, license information is unknown. The original theme was created by [lennythetechie on themes.vscode.one](https://themes.vscode.one/theme/lennythetechie/o8CSDFWb), but lenny doesn't seem to be on github. Lenny's theme was eventually found by a github user named chausen, but the theme wasn't published as an installable extension anywhere - so chausen pulled it into [their own github repo](https://github.com/chausen/hacker-blue) and published it. No license information is available in either location
 - At the time of acquisition (and also writing this), themes.vscode.one's host (currently flamelab.io) has terms of service stating that users who upload/create content on their platform are responsible for enforcing their own copyright
-- TLDR Lenny hit me up I want to give you credit your theme is dope, post an issue to this repo or something!
+- TLDR Lenny please reach out I want to give you credit, post an issue to this repo if you find it!
 
 
