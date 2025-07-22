@@ -2,14 +2,14 @@
 
 - [X] All violets, fix terminal cursor
     awesome teal: #00c2b8
-- [X] Update themes, build and push 0.8.0
-- [X] Get synthwave added to readme correctly
-- [X] Fix the build then repush 0.8
 
+- [ ] Make a like extension of just my light themes
+- [ ] README order: Title says "Screenshots below, info first!", then Purpose, Install, Notes, Screenshots headers
 - [ ] ice-cool: html tag should be more contrasty, dark teal or purple like ice-white
 - [ ] `violet-ice-*`: double check debug mode highlights in watch panel
-- [ ] 2 SCREENSHOTS OF EACH!
-- [ ] Sign up for publishing
+- [ ] Create token in azure, create publisher in mktplace
+        https://code.visualstudio.com/api/working-with-extensions/publishing-extension
+- [ ] screenshots
 - [ ] Publish so my IDE can sync this without manual sideloading
 - [ ] Blog about it for practice and future reference
 
