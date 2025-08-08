@@ -1,5 +1,7 @@
 # colorjakd light and dark theme pack by [asyncjake](https://github.com/asyncjake)
 
+If you just want to see the extension live in the marketplace, [check it out here!](https://marketplace.visualstudio.com/items?itemName=asyncjake.colorjakd)
+
 This extension is a convenient combo pack my custom Violet Ice light themes with "forks" of awesome dark themes I like but wanted to tweak for some reason, bundled up simplify my extension list and theme lists. Plus a compulsion to add a bit more style to some already awesome themes. The themes I've forked are MIT license, with one fascinating exception, cheers to the mysterious lennythetechie. All sources cited below because humanity works better together 🙌
 
 By "forks", I mean I found a theme I loved, lifted it by the power of the MIT license, and changed like two lines because I'm way too picky about this stuff. I followed the standard process to export a theme from VSCode, set up an extension, import the theme as code and adjust to taste, then republish it. **If you do this**, please respect the licenses of the extensions you're messing with. 
