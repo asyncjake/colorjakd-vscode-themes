@@ -1,8 +1,9 @@
 {
   "name": "colorjakd",
+  "publisher": "asyncjake",
   "displayName": "colorjakd / jakethedev's theme pack",
   "description": "One part awesome custom light theme to several parts forked-and-tweaked dark themes under the MIT license",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "repository": "https://github.com/jakethedev/colorjakd-vscode-themes",
   "scripts": {
     "start": "echo Edit a theme, use 'npm run build' to generate the vsix file, or use vscode extension developer tools to live-test changes",
