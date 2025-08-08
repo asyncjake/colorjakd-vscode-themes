@@ -1,29 +1,33 @@
-# colorjakd light and dark theme pack by @asyncjake
+# colorjakd light and dark theme pack by [asyncjake](https://github.com/asyncjake)
 
-***(screenshots coming soon)***
-
-This extension is a convenient combo pack my custom Violet Ice light themes with "forks" of awesome dark themes I like but wanted to tweak for some reason, bundled up simplify my extension list and theme lists. Plus a compulsion to add a bit more style to some already awesome themes. The themes I've forked are MIT license, with one fascinating exception, cheers to the mysterious lennythetechie. All sources cited below because humanity works better together :sparkle:
+This extension is a convenient combo pack my custom Violet Ice light themes with "forks" of awesome dark themes I like but wanted to tweak for some reason, bundled up simplify my extension list and theme lists. Plus a compulsion to add a bit more style to some already awesome themes. The themes I've forked are MIT license, with one fascinating exception, cheers to the mysterious lennythetechie. All sources cited below because humanity works better together 🙌
 
 By "forks", I mean I found a theme I loved, lifted it by the power of the MIT license, and changed like two lines because I'm way too picky about this stuff. I followed the standard process to export a theme from VSCode, set up an extension, import the theme as code and adjust to taste, then republish it. **If you do this**, please respect the licenses of the extensions you're messing with. 
 
 ### Contributing
-I'm picky about the existing themes so I'm unlikely to accept significant color updates, but if you have a theme to add or a really nice QoL change for an existing theme, I'm wide open to it!
+I'm picky about the existing themes so I'm unlikely to accept significant color updates, but if you have a theme to add or a really nice QoL change for an existing theme, I'm wide open to it! Just file an issue on [Github](https://github.com/asyncjake/colorjakd-vscode-themes/issues)
 
 ## Light Themes
 
-### `colorjakd / violet ice`
+### `colorjakd / violet ice [cool | white]`
 
-Honestly, I just got sick of light themes having no vibe and so little contrast that I couldn't see the code, so I made this from scratch. Now it's my daytime default :sunny:
+Honestly, I just got sick of light themes having no soul and being really low contrast for no reason, so I made this from scratch. Now it's my daytime default ✨
 
 Initial structure provided by `https://themes.vscode.one`, then upgraded over time as I 'dogfood' this one every day. Inspired by Arturia hardware and simple bright colors, this theme is primarily white and violet with a dash of teal and gold.
 
 #### violet ice cool (teal accent)
 
-- ScreenshotPlaceholder
+![Violet Ice Cool Preview](./images/violet-ice-cool.png)
 
 #### violet ice white (simpler, cleaner)
 
-- ScreenshotPlaceholder
+![Violet Ice White Preview](./images/violet-ice-white.png)
+
+#### violet ice menus
+
+Kept them dark for a splash of contrast, but I don't see the menus often, so I'm open to making an all-light version upon request! Just file an issue on [Github](https://github.com/asyncjake/colorjakd-vscode-themes/issues) :)
+
+![Violet Ice Menu Preview](./images/violet-ice-menu.png)
 
 ## Dark Themes
 
@@ -31,43 +35,43 @@ Initial structure provided by `https://themes.vscode.one`, then upgraded over ti
 
 I probably haven't changed anything, I just love this theme
 
-- ScreenshotPlaceholder
+![Andromeda Preview](./images/dark-andromeda.png)
 
-### `colorjakd / astro` (forked from `larabeatriz32.theme-astronaut`)
+### `colorjakd / astronaut` (forked from `larabeatriz32.theme-astronaut`)
 
 I probably haven't changed anything here either, this is excellent as-is
 
-- ScreenshotPlaceholder
+![Astronaut Preview](./images/dark-astronaut.png)
+
+### `colorjakd / batman` (forked from `Vaporizer.vaporizer-dark`)
+
+Updated scrollbars for better brooding 🦇
+
+![Batman Preview](./images/dark-batman.png)
+
+### `colorjakd / cyber` (forked from `Vaporizer.vaporizer-dark`)
+
+Hacked proper scrollbars and comments and a couple other little details
+
+![Cyber Preview](./images/dark-cyber.png)
 
 ### `colorjakd / hacker blue` (forked from `chausen.hacker-blue`)
 
 Super clean with mysterious origins (see below). I've only changed the comment color from the original
 
-- ScreenshotPlaceholder
-
-### `colorjakd / batman` (forked from `Vaporizer.vaporizer-dark`)
-
-Updated scrollbars for better brooding
-
-- ScreenshotPlaceholder
-
-### `colorjakd / cyber` (forked from `Vaporizer.vaporizer-dark`)
-
-Hacked proper scrollbars and comments, possibly a couple other details
-
-- ScreenshotPlaceholder
+![Hacker Blue Preview](./images/dark-hackerblue.png)
 
 ### `colorjakd / synthwave` (forked from `RobbOwen.synthwave-vscode`)
 
-Hacked proper scrollbars and comments, possibly a couple other details
+Improved scrollbar and comment visibility - note that the original has a really cool glow effect made possible by sideloading some CSS into the VSCode startup process, but this version contains no such magic, it's just the colors
 
-- ScreenshotPlaceholder
+![Synthwave Preview](./images/dark-synthwave.png)
 
-## License Details
+## License Info for All Themes
 
-### TLDR: This is all MIT except hacker-blue, which is unknown but reposted in good faith that lennythetechie wanted these colors out in the world
+#### TLDR: This is all MIT except hacker-blue, which is unknown but shared in good faith that lennythetechie wanted these colors out in the world
 
-All my custom `violet ice` themes are shared under the MIT license, pay it forward! :sparkle:
+All my custom `violet ice` themes are shared under the MIT license, and always will be! Feel free to fork or steal them yourself, the world is better in color 😄
 
 `andromeda` was a successful heist from `EliverLara.andromeda` on the marketplace. There's [a public repository](https://github.com/EliverLara/Andromeda) released under the [MIT license](https://github.com/EliverLara/Andromeda/blob/master/LICENSE.md), thanks Eliver!
 
