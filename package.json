@@ -2,7 +2,7 @@
   "name": "colorjakd",
   "displayName": "colorjakd / jakethedev's theme pack",
   "description": "One part awesome custom light theme to several parts forked-and-tweaked dark themes under the MIT license",
-  "version": "v0.8.0",
+  "version": "v0.9.0",
   "repository": "https://github.com/jakethedev/colorjakd-vscode-themes",
   "scripts": {
     "start": "echo Edit a theme, use 'npm run build' to generate the vsix file, or use vscode extension developer tools to live-test changes",
@@ -10,6 +10,9 @@
     "ci:setup": "npm install",
     "v:update": "npm version minor",
     "v:major": "npm version major"
+  },
+  "galleryBanner": {
+    "color": "#5000E0"
   },
   "devDependencies": {
     "@vscode/vsce": "2.26.1"
@@ -24,42 +27,42 @@
   "contributes": {
     "themes": [
       {
-        "label": "jakd / violet ice white",
+        "label": "colorjakd / violet ice white",
         "uiTheme": "vs",
         "path": "./light/violet-ice-white.json"
       },
       {
-        "label": "jakd / violet ice cool",
+        "label": "colorjakd / violet ice cool",
         "uiTheme": "vs",
         "path": "./light/violet-ice-cool.json"
       },
       {
-        "label": "jakd / andromeda",
+        "label": "colorjakd / andromeda",
         "uiTheme": "vs-dark",
         "path": "./dark/andromeda-bordered.json"
       },
       {
-        "label": "jakd / astronaut",
+        "label": "colorjakd / astronaut",
         "uiTheme": "vs-dark",
         "path": "./dark/larabeatriz32-astronaut.json"
       },
       {
-        "label": "jakd / hacker blue",
+        "label": "colorjakd / hacker blue",
         "uiTheme": "vs-dark",
         "path": "./dark/hacker-blue.json"
       },
       {
-        "label": "jakd / batman",
+        "label": "colorjakd / batman",
         "uiTheme": "vs-dark",
         "path": "./dark/vaporizer-batman-dark.json"
       },
       {
-        "label": "jakd / cyber",
+        "label": "colorjakd / cyber",
         "uiTheme": "vs-dark",
         "path": "./dark/vaporizer-cyber-neon.json"
       },
       {
-        "label": "jakd / synthwave",
+        "label": "colorjakd / synthwave",
         "uiTheme": "vs-dark",
         "path": "./dark/robbowen-synthwave.json"
       }
