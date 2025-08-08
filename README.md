@@ -1,4 +1,4 @@
-# colorjakd theme pack by @asyncjake :computer: :rainbow:
+# colorjakd light and dark theme pack by @asyncjake
 
 ***(screenshots coming soon)***
 

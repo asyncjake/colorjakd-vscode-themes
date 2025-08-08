@@ -2,10 +2,10 @@
   "name": "colorjakd",
   "publisher": "asyncjake",
   "icon": "images/asyncjake-icon.png",
-  "displayName": "colorjakd / jakethedev's theme pack",
+  "displayName": "colorjakd / jake's theme pack",
   "description": "One part awesome custom light theme to several parts forked-and-tweaked dark themes under the MIT license",
-  "version": "0.9.2",
-  "repository": "https://github.com/jakethedev/colorjakd-vscode-themes",
+  "version": "0.9.3",
+  "repository": "https://github.com/asyncjake/colorjakd-vscode-themes",
   "scripts": {
     "start": "echo Edit a theme, use 'npm run build' to generate the vsix file, or use vscode extension developer tools to live-test changes",
     "build": "npm run ci:setup && vsce package && mv *.vsix builds/ && echo 'Build complete, check builds folder!'",
